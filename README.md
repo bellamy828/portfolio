@@ -20,14 +20,9 @@ Node.JS 기반 서버를 개발하고 있습니다.
 > 애견 커뮤니티 (4인 팀 프로젝트)  
 > 개발 기간: 2022.04.18 ~ 2022.05.13  
 >
-> 기술 스택: Typescript / Expressjs/ JWT
-Nodejs
-Nodemailer
-Oauth
-MySQL
-Socket.io
-Multer
-Sequelize
+> 기술 스택:  
+> Typescript / Nodejs / MySQL / TypeORM  
+> Oauth 2.0 / Multer / JWT
 >
 > [프로젝트 상세 설명](https://github.com/codestates/Puppynity/wiki)
 
@@ -37,6 +32,7 @@ Sequelize
 > 개발자 에러 로그 공유 커뮤니티 (4인 팀 프로젝트)  
 > 개발 기간: 2022.4.14 ~ 2020.4.14  
 >
-> 기술 스택:
+> 기술 스택:  
+> JavaScript / HTML / CSS / Styled-components / React / axios
 >
 > [프로젝트 상세 설명](https://github.com/codestates/DebugNote/wiki)
