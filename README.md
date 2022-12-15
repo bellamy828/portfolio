@@ -1,6 +1,6 @@
 # 정태영 포트폴리오
 > '삶은 끊임 없는 문제 해결 과정' 이라는 인식을 가지고  
-더 넓은 시야에서 문제를 인식하고, 주도적으로 해결하고자 합니다.
+더 넓은 시야에서 문제를 인식, 주도적으로 해결하고자 합니다.
 
 </br>
 
@@ -33,6 +33,7 @@ Node.JS 기반 서버를 개발하고 있습니다.
 > 개발 기간: 2022.4.14 ~ 2020.4.14  
 >
 > 기술 스택:  
-> JavaScript / HTML / CSS / Styled-components / React / axios
+> JavaScript / HTML / CSS / Styled-components
+> React / axios
 >
 > [프로젝트 상세 설명](https://github.com/codestates/DebugNote/wiki)
