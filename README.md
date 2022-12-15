@@ -24,7 +24,7 @@ Node.JS 기반 서버를 개발하고 있습니다.
 > Typescript / Nodejs / MySQL / TypeORM  
 > Oauth 2.0 / Multer / JWT
 >
-> [회고 및 느낀점](https://velog.io/@taeyeong8/4%EC%A3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+> [회고](https://velog.io/@taeyeong8/4%EC%A3%BC-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
 
 ---
 
@@ -36,4 +36,4 @@ Node.JS 기반 서버를 개발하고 있습니다.
 > JavaScript / HTML / CSS / Styled-components  
 > React / axios
 >
-> [회고 및 느낀점](https://velog.io/@taeyeong8/%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
+> [회고](https://velog.io/@taeyeong8/%EC%B2%AB-%EB%B2%88%EC%A7%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0)
