@@ -33,7 +33,7 @@ Node.JS 기반 서버를 개발하고 있습니다.
 > 개발 기간: 2022.4.14 ~ 2020.4.14  
 >
 > 기술 스택:  
-> JavaScript / HTML / CSS / Styled-components
+> JavaScript / HTML / CSS / Styled-components  
 > React / axios
 >
 > [프로젝트 상세 설명](https://github.com/codestates/DebugNote/wiki)
