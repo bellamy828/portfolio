@@ -15,9 +15,10 @@ Node.js 기반 서버를 개발하고 있습니다.
 
 <br>
 
-## Projects
+## Team Projects
+
 ### 1. [Puppynity](https://github.com/codestates/Puppynity/wiki)
-> 애견 커뮤니티 (4인 팀 프로젝트)  
+> 애견 커뮤니티  
 > 개발 기간: 2022.04.18 ~ 2022.05.13  
 >
 > 기술 스택:  
@@ -29,9 +30,9 @@ Node.js 기반 서버를 개발하고 있습니다.
 ---
 
 ### 2. [DebugNote](https://github.com/codestates/DebugNote/wiki)
-> 개발자 에러 로그 공유 커뮤니티 (4인 팀 프로젝트)  
+> 개발자 에러 로그 공유 커뮤니티  
 > 개발 기간: 2022.4.14 ~ 2020.4.14  
->
+> 
 > 기술 스택:  
 > JavaScript / HTML / CSS / Styled-components  
 > React / axios
