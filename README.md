@@ -21,7 +21,8 @@ Node.js 기반 서버를 개발하고 있습니다.
 > 애견 커뮤니티  
 > 개발 기간: 2022.04.18 ~ 2022.05.13  
 >
-> 기술 스택:  
+> 기술 스택: 
+> Back-end
 > Typescript / Express / MySQL / TypeORM  
 > Oauth 2.0 / Multer / JWT
 >
@@ -33,7 +34,8 @@ Node.js 기반 서버를 개발하고 있습니다.
 > 개발자 에러 로그 공유 커뮤니티  
 > 개발 기간: 2022.4.4 ~ 2022.4.14  
 > 
-> 기술 스택:  
+> 기술 스택:
+> Front-end
 > JavaScript / HTML / CSS / Styled-components  
 > React / axios
 >
